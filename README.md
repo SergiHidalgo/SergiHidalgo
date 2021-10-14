@@ -11,11 +11,4 @@ Some of my most outstanding projects and achievements:
 - Box Fall 3D: In the process of being published together with Voodoo for the United States.
 - Kusfollin Game: Web game I developed for a beer brand in Barcelona.
 
-Currently, I would like to find work as a Unity Developer in a company to continue learning and demonstrate what I am capable of.
-
 My most outstanding projects in my portfolio: https://sergihidalgo24.wixsite.com/portfolio
-
-<!---
-SergiHidalgo/SergiHidalgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
